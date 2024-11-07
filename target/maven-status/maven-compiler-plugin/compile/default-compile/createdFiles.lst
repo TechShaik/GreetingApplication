@@ -1,0 +1,6 @@
+com\example\greetingapp\service\GreetingService.class
+com\example\greetingapp\service\IGreetingService.class
+com\example\greetingapp\model\Greeting.class
+com\example\greetingapp\repository\GreetingAppRepository.class
+com\example\greetingapp\controller\GreetingController.class
+com\example\greetingapp\GreetingAppApplication.class
